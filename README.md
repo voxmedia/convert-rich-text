@@ -104,6 +104,7 @@ convert(delta, formats, { blockTag: 'FIGURE', inlineTag: 'INS' });
 
 ## Changelog
 
+- `5.5.0` Add support for data params in doc component
 - `5.4.1` Update dev dependencies to address security vulnerabilities
 - `5.4.0` Update jsdom and lodash dependencies
 - `5.3.0` Add support for Pym.js component
