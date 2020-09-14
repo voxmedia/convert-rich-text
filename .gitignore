@@ -1,4 +1,5 @@
 .grunt
+.vscode
 build
 lib-cov
 coverage
