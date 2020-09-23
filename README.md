@@ -104,6 +104,7 @@ convert(delta, formats, { blockTag: 'FIGURE', inlineTag: 'INS' });
 
 ## Changelog
 
+- `6.0.0` Remove the `toInternalHtml` method. Also remove the private formats and internal-specific outputs that used to support `toInternalHtml`.
 - `5.5.0` Add support for data params in doc component
 - `5.4.1` Update dev dependencies to address security vulnerabilities
 - `5.4.0` Update jsdom and lodash dependencies
